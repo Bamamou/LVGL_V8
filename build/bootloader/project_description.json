@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "E:/ESP/ToolChain/Espressif/frameworks/esp-idf-v5.0.2/components/bootloader/subproject",
-    "build_dir":          "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader",
-    "config_file":        "E:/ZX7D00CE01S-master/ESP32 S3 Screen/sdkconfig",
+    "build_dir":          "E:/Git/LVGL_V8/build/bootloader",
+    "config_file":        "E:/Git/LVGL_V8/sdkconfig",
     "config_defaults":    "",
     "bootloader_elf":     "",
     "app_elf":            "bootloader.elf",

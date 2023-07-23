@@ -1,4 +1,4 @@
-# Install script for directory: E:/ZX7D00CE01S-master/ESP32 S3 Screen/components/gt911
+# Install script for directory: E:/Git/LVGL_V8/components/gt911
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

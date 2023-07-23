@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
-  include("E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
-  include("E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("E:/Git/LVGL_V8/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("E:/Git/LVGL_V8/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
+  include("E:/Git/LVGL_V8/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
 
 endif()
 

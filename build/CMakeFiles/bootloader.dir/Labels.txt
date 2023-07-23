@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/CMakeFiles/bootloader
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/CMakeFiles/bootloader.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/CMakeFiles/bootloader-complete.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+E:/Git/LVGL_V8/build/CMakeFiles/bootloader
+E:/Git/LVGL_V8/build/CMakeFiles/bootloader.rule
+E:/Git/LVGL_V8/build/CMakeFiles/bootloader-complete.rule
+E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

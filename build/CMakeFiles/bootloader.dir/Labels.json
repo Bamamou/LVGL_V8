@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/CMakeFiles/bootloader"
+			"file" : "E:/Git/LVGL_V8/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/CMakeFiles/bootloader.rule"
+			"file" : "E:/Git/LVGL_V8/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "E:/Git/LVGL_V8/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "E:/Git/LVGL_V8/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

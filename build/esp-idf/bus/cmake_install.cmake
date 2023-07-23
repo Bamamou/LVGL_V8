@@ -1,4 +1,4 @@
-# Install script for directory: E:/ZX7D00CE01S-master/ESP32 S3 Screen/components/bus
+# Install script for directory: E:/Git/LVGL_V8/components/bus
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

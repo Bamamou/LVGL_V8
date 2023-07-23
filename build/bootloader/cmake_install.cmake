@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader/esp-idf/cmake_install.cmake")
+  include("E:/Git/LVGL_V8/build/bootloader/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/ZX7D00CE01S-master/ESP32 S3 Screen/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Git/LVGL_V8/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
