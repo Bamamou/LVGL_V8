@@ -19,7 +19,7 @@ static void increase_lvgl_tick(void* arg) {
     lv_tick_inc(portTICK_PERIOD_MS);
 }
 
-extern void screen_init(void);              // This define the and start the screen 
+extern void screen_init(void);              // This define the and start the screen  (Original function)
 extern void __qmsd_screen_main_init(void);  // I added this function to start the vehicle screen 
 extern void screen_main_build(void);      // samething fot this funtion
 

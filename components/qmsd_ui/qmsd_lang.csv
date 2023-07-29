@@ -1,0 +1,20 @@
+# Sample csv file
+key,type,encoding,value
+zh_cn,namespace,,
+lab_distance,data,string,138
+lab_dis_com,data,string,M
+lab_load_show,data,string,南坪快速
+lab_time,data,string,15
+lab_time_sign,data,string,:
+lab_scr,data,string,20
+lab_temperature,data,string,20
+lab_tem_com,data,string,℃
+lab_met_le_date,data,string,86
+lab_met_le_com,data,string,KM/H
+lab_met_ri_date,data,string,1.2
+lab_met_ri_com,data,string,1min×1000
+lab_month,data,string,10
+lab_date_sign,data,string,.
+lab_day,data,string,31
+lab_gear,data,string,Ready
+lab_3ebe,data,string,123456PDSN
